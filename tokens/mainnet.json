@@ -2682,7 +2682,7 @@
 	{
 		"chainId": 1,
 		"address": "0x7815bda662050d84718b988735218cffd32f75ea",
-		"name": "Yield Enhancement Labs",
+		"name": "YEL Token",
 		"symbol": "YEL",
 		"decimals": 18,
 		"logoURI": "https://raw.githubusercontent.com/YieldEnhancementLabs/assets/main/logo/256.png"
